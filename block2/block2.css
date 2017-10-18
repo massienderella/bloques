@@ -1,0 +1,24 @@
+.blue {
+	height: 400px;
+	width: 400px;
+	background-color: blue;
+	position: relative;
+}
+
+.green {
+	height: 200px;
+	width: 200px;
+	background-color: green;
+	position: absolute;
+	top: 108px;
+	left: 108px;
+}
+
+.black {
+	height: 100px;
+	width: 100px;
+	background-color: black;
+	position: absolute;
+	top: 8px;
+	left: 8px;
+}

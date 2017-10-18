@@ -1,0 +1,24 @@
+.red{
+	height: 400px;
+	width: 400px;
+	background-color: red;
+	position: relative;
+}
+
+.purple{
+	height: 200px;
+	width: 200px;
+	background-color: purple;
+	position: absolute;
+	top: 100px;
+	left: 100px;
+}
+
+.yellow{
+	height: 100px;
+	width: 100px;
+	background-color: yellow;
+	position: absolute;
+	top: 100px;
+	left: 100px;
+}
